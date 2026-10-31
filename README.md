@@ -7,18 +7,11 @@ Papers, preprints and drafts by **F. G. Ersezer**. Each paper has its own folder
 ```
 .
 ├── README.md
-└── <paper-name>/
-    ├── README.md   # short summary, status, how to build or run
-    ├── paper/      # source (.tex, .docx, …) and compiled PDF
-    └── code/       # optional: scripts, data, numerical checks
+└── <paper-name>
+
 ```
 
-To add a paper, create a folder named after it, follow the layout above, and add a row to the table.
-
-## Building
-
-- **LaTeX papers:** run `pdflatex <file>.tex` twice inside the paper's `paper/` folder.
-- **Code:** see the paper's own `README.md` for requirements and how to run it.
+To add a paper, follow the layout above, and add a row to the table.
 
 ## Citing
 
