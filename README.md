@@ -1,6 +1,7 @@
 # Academic Work
 
-Papers, preprints and drafts by **F. G. Ersezer**. Each paper has its own folder with its source, its compiled PDF and any supporting code or data.
+Papers, preprints and drafts by **F. G. Ersezer**. Each paper has its own folder with its source, its compiled PDF and any supporting code or data. 
+(The "made by AI" articles are made with the author and ai model together, whereas other articles are just updated by AI)
 
 ## Layout
 
